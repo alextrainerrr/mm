@@ -15,3 +15,5 @@
 
 - **[Регламент администраторов](https://docs.google.com/document/d/1DoVOd193qmglZUpJ_oOB_36dx8YwGByT9wAp0fJBLwE/edit?usp=sharing)** — Правила и обязанности администраторов
 - **[Регламент моделей](https://docs.google.com/document/d/1N0JfR7gU4QVOhoKrcPxwbpzRuxcSeAO1cxd1ApcppC0/edit?usp=sharing)** — Правила и обязанности моделей
+- **[Регламент админа 2](https://docs.google.com/document/d/11VR3uOQ5JngaQX58RRMA2riLLCSnuhgrv_-t2eXE6qY/edit?usp=sharing)** — Дополнительный регламент администраторов
+- **[Отработка лидов для HR](https://docs.google.com/document/d/1rWf7WssDTC_TL5D9DNpBXyXip1J2UkOgAXzwvjApOCc/edit?usp=sharing)** — Процесс обработки лидов для отдела HR
