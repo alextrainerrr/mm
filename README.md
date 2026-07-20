@@ -10,3 +10,8 @@
 - **[Учет АПРЕЛЬ](https://docs.google.com/spreadsheets/d/1lLGzhPO-xWj7HQg_8LB14eam6zozMuBRgte57OQQoeM/edit?usp=sharing)** — Информация по организации
 - **[Учет МАРТ](https://docs.google.com/spreadsheets/d/1dPiftfqlnZKhWoIDttUlrI00kvm7Y9b8EtKzoFy0CME/edit?usp=sharing)** — Информация по организации
 - **[Задачи администраторов](https://docs.google.com/spreadsheets/d/1O_svmC2uzebpel9zjeBIxA4DYN8t6UDGM8ahr8FO-q0/edit?usp=sharing)** — Отметки о выполнении и отчеты за смену
+
+### Google Docs
+
+- **[Регламент администраторов](https://docs.google.com/document/d/1DoVOd193qmglZUpJ_oOB_36dx8YwGByT9wAp0fJBLwE/edit?usp=sharing)** — Правила и обязанности администраторов
+- **[Регламент моделей](https://docs.google.com/document/d/1N0JfR7gU4QVOhoKrcPxwbpzRuxcSeAO1cxd1ApcppC0/edit?usp=sharing)** — Правила и обязанности моделей
